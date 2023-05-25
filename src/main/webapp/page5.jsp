@@ -2,8 +2,8 @@
 
 <body>
     <h2>Deploy Tomcat with Jenkins</h2>
-    <p>NEW PAGE -3 </p>
-    <a href="index.jsp">Page3</a>
+    <p>NEW PAGE -5 </p>
+    <a href="index.jsp">Home</a>
 </body>
 
 </html>
